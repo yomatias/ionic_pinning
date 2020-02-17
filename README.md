@@ -43,3 +43,12 @@ rm certificate.pem
 
 STEP 8 - run
 ionic cordova run android
+
+********************************************
+following links where really usefull
+
+https://ionicframework.com/docs/v3/native/http/
+https://github.com/sijovijayan/SSL-pinning-with-ionic-cordova-example
+https://stackoverflow.com/questions/59453376/how-to-implement-ssl-key-pinning-in-ios-in-ionic-3
+https://stackoverflow.com/questions/38095559/https-test-server-that-checks-client-certificates
+https://developer.android.com/training/articles/security-ssl#java
