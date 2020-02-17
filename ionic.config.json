@@ -1,5 +1,7 @@
 {
   "name": "ionic_pinning",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
